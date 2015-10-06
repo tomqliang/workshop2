@@ -9,3 +9,5 @@ The script will function to extract the unique values from a column from a .csv 
 numpy
 python
 gromacs
+
+Example of how to use the script below.
