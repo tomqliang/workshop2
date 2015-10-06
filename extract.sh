@@ -3,4 +3,4 @@
 
 ## Just doing the exercise as instructed...
 
-cut -f 2 -d',' data/antibiotics.csv | sort | uniq > antibiotics_unique.csv
+cut -f $1 -d',' data/antibiotics.csv | sort | uniq > antibiotics_unique.csv
